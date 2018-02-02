@@ -19,3 +19,7 @@ A Web application that you can use to see the most current news from all over th
 * jQuery
 * AJAX 
 * Materialize
+
+# Contributors
+
+Anna Tillack, Sharron Cooper, Jess Marrano, Gregory Mckenzie, Caglar Panus
